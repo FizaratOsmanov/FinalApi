@@ -1,133 +1,297 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Migrations\\20250104211938_add-migration ....cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250104211938_add-migration ....cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\contexts\\configurations\\appuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\appuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\contexts\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\contexts\\configurations\\colorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\colorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\contexts\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\contexts\\configurations\\sizeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\sizeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\implementations\\productcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\productcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\implementations\\productsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\productsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\iproductcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\iproductcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\iproductsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\iproductsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.core\\entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\repository\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\productsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\productcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\contexts\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\contexts\\configurations\\sizeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\sizeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\contexts\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\contexts\\configurations\\colorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\colorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\contexts\\configurations\\appuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\configurations\\appuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{908DED1D-31B9-4BFD-A7BE-8E3174693497}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\appuserdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\externalservices\\abstractions\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\abstractions\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\externalservices\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\appuserdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\iproductcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\iproductsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\productcolordtos\\productcolorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productcolordtos\\productcolorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\productsizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productsizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\productcolorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productcolorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\profiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\colordtos\\colorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\colordtos\\colorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\productsizedtos\\productsizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productsizedtos\\productsizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\dtos\\sizedtos\\sizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\sizedtos\\sizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\final.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\final.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\migrations\\20250104211938_add-migration ....cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\migrations\\20250104211938_add-migration ....cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\implementations\\productcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\productcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\implementations\\productsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\productsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\iproductcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\iproductcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\iproductsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\iproductsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31300F58-8B49-4A1A-9DD9-26E172ED65C5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\repository\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repository\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{734B0B07-6C70-47D2-8E31-5B2243596CB6}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\source\\repos\\final\\final.data\\final.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|c:\\users\\lenovo\\desktop\\finalapi\\final\\final.data\\final.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{24F4E3D9-5651-4046-B626-6A9B6287DD3E}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\final.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -137,399 +301,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 653,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 618,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250104211938_add-migration ....cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Migrations\\20250104211938_add-migration ....cs",
-              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250104211938_add-migration ....cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Migrations\\20250104211938_add-migration ....cs",
-              "RelativeToolTip": "Final.Data\\Migrations\\20250104211938_add-migration ....cs",
-              "ViewState": "AgIAABoBAAAAAAAAAAAYwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T21:19:38.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryConfig.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
-              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:52:00.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:21:40.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductConfig.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
-              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:56:07.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ColorConfig.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
-              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T21:09:06.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUserConfig.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
-              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:51:40.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:21:27.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Color.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Color.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Color.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:22:19.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SizeConfig.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
-              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:56:35.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ISizeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T21:12:58.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:25:48.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ColorRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ColorRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ColorRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:08:15.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Size.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Size.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Size.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Size.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Size.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:22:33.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductSize.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\ProductSize.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductSize.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\ProductSize.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\ProductSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:17:42.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:07:09.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:00:00.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:14:37.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductSizeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:14:54.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:23:29.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:00:20.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IProductColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:26:40.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IProductSizeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:27:07.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductColor.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\ProductColor.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductColor.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\ProductColor.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\ProductColor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:17:56.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:44:29.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Base\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Entities\\Base\\AuditableEntity.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Base\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:44:51.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Implementations\\ProductRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:07:59.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
-              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T20:23:55.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Final.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Api\\appsettings.json",
-              "RelativeToolTip": "Final.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T19:32:47.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Final.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Api\\Program.cs",
-              "RelativeToolTip": "Final.Api\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:32:11.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Final.Data\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Final.Data\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:55:37.286Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -544,11 +318,934 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductSizeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:54:09.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "Final.Api\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:34:15.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\ColorsController.cs*",
+              "RelativeToolTip": "Final.Api\\Controllers\\ColorsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:35:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Final.Api\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:34:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SizesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\SizesController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\SizesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\SizesController.cs*",
+              "RelativeToolTip": "Final.Api\\Controllers\\SizesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:35:49.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Program.cs*",
+              "RelativeToolTip": "Final.Api\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:32:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\Controllers\\AccountsController.cs*",
+              "RelativeToolTip": "Final.Api\\Controllers\\AccountsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:33:47.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SizeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\SizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\SizeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\SizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\SizeService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:48:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:47:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductColorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:54:23.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:47:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:46:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\CategoryConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:52:00.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\AccountService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:46:08.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SizeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\SizeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:56:35.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\ProductConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:56:07.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColorConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\ColorConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:09:06.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\Configurations\\AppUserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:51:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:55:37.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\ConfigurationService.cs",
+              "RelativeToolTip": "Final.BL\\ConfigurationService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:00:42.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Final.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Api\\appsettings.json",
+              "RelativeToolTip": "Final.Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T19:32:47.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\AppUserDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AppUserDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\AppUserDTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AppUserDTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:49:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:57:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\ExternalServices\\Implementations\\TokenService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Implementations\\TokenService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\ExternalServices\\Implementations\\TokenService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Implementations\\TokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:55:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\ExternalServices\\Abstractions\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Abstractions\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\ExternalServices\\Abstractions\\ITokenService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Abstractions\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:54:51.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:33:42.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:34:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:33:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductColorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:35:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:08:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Final.BL",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\Final.BL.csproj",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:07:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Color.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:22:19.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Base\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:44:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Final.BL\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:23:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IProductSizeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:35:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:34:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISizeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:34:48.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductColorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:34:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ProductColorProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductColorProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ProductColorProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:01:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductSizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ProductSizeProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductSizeProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ProductSizeProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductSizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:01:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:00:28.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:00:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\AppUserProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:59:05.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:35:17.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\SizeProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\SizeProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\SizeProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\SizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:01:04.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ColorProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ColorProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Profiles\\ColorProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:00:54.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:33:14.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ColorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:34:20.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductSizeCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:34:54.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppUserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:28:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SizeCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:35:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:33:51.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Final.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj",
+              "RelativeDocumentMoniker": "Final.Core\\Final.Core.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj",
+              "RelativeToolTip": "Final.Core\\Final.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T06:33:44.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:21:40.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\ProductColor.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:17:56.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\ProductSize.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\ProductSize.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\ProductSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:17:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Size.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Size.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Size.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:22:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250104211938_add-migration ....cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Migrations\\20250104211938_add-migration ....cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250104211938_add-migration ....cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Migrations\\20250104211938_add-migration ....cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250104211938_add-migration ....cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:19:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:21:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\ISizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:12:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:25:48.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:00:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProductColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ProductColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:14:37.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductSizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ProductSizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:14:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:23:29.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:00:20.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IProductColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IProductColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:26:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductSizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IProductSizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:27:07.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:44:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:07:59.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repository\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:23:55.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Final.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Final.BL.csproj",
               "RelativeDocumentMoniker": "Final.BL\\Final.BL.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\Final.BL.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Final.BL.csproj",
               "RelativeToolTip": "Final.BL\\Final.BL.csproj",
               "ViewState": "AgIAAAMAAABwVZJuWkkjwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -557,11 +1254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Final.Data",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj",
+              "DocumentIndex": 72,
+              "Title": "Final.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj",
               "RelativeDocumentMoniker": "Final.Data\\Final.Data.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj",
               "RelativeToolTip": "Final.Data\\Final.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -574,6 +1271,10 @@
           "DockedWidth": 162,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

@@ -1,5 +1,8 @@
-
+using Final.BL;
+using Final.BL.Profiles;
+using Final.Core.Entities;
 using Final.Data.Contexts;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Final.Api
@@ -9,11 +12,22 @@ namespace Final.Api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-            // Add services to the container.
-
+            builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+            {
+                opt.Password.RequiredLength = 5;
+                opt.User.RequireUniqueEmail = true;
+                opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+            builder.Services.AddAutoMapper(typeof(AppUserProfile));
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+
+            //Configurationdan gelenler
+            builder.Services.AddBusinessServices();
+            builder.Services.AddRepositoryScoped();
+
+
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<AppDbContext>(opt =>
@@ -22,7 +36,6 @@ namespace Final.Api
             });
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -33,7 +46,8 @@ namespace Final.Api
 
             app.UseAuthorization();
 
-
+            app.UseCors("AllowAll");
+            app.UseHttpsRedirection();
             app.MapControllers();
 
             app.Run();

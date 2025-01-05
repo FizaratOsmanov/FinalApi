@@ -18,8 +18,4 @@
     <ProjectReference Include="..\Final.BL\Final.BL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

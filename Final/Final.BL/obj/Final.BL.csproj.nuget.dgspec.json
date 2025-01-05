@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\Final.BL.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Final.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\Final.BL.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Final.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\Final.BL.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Final.BL.csproj",
         "projectName": "Final.BL",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\Final.BL.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\Final.BL.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.BL\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj"
               }
             }
           }
@@ -57,6 +57,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             }
           },
           "imports": [
@@ -79,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Final.Core.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Final.Core.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj",
         "projectName": "Final.Core",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Final.Core.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj",
         "projectName": "Final.Data",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\Final.Data.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\Final.Data.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Data\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,8 +186,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Final.Core.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Final\\Final.Core\\Final.Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\FinalApi\\Final\\Final.Core\\Final.Core.csproj"
               }
             }
           }
