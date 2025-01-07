@@ -19,13 +19,11 @@ namespace Final.Api
                 opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
             }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
             builder.Services.AddAutoMapper(typeof(AppUserProfile));
+
             builder.Services.AddControllers();
-
-
             //Configurationdan gelenler
             builder.Services.AddBusinessServices();
             builder.Services.AddRepositoryScoped();
-
 
 
             builder.Services.AddEndpointsApiExplorer();
@@ -43,9 +41,8 @@ namespace Final.Api
             }
 
             app.UseHttpsRedirection();
-
+            app.UseStaticFiles();
             app.UseAuthorization();
-
             app.UseCors("AllowAll");
             app.UseHttpsRedirection();
             app.MapControllers();
